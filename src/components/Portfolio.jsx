@@ -14,13 +14,13 @@ import Internship from "./Internship";
 const projects = [
     {
     title: "Newage versatile studio",
-    description: "Newgae Versatile Studio is a stylish and minimal e-commerce website built for showcasing a variety of lifestyle products including fashion, accessories, and home decor. Designed using Reactjs, Tailwindcss, Expressjs, MongoDB,Nodejs, it offers a simple yet elegant interface that enhances the shopping experience. The homepage presents featured products, categories, and special offers with smooth navigation and visually appealing cards. The layout ensures customers can easily explore products, view details, and understand pricing. This project demonstrates a strong understanding of front-end web design, focusing on usability and modern style.",
+    description: "Newgae Versatile Studio is a stylish and minimal e-commerce website built for showcasing a variety of lifestyle products including fashion, accessories, and home decor. Designed using Reactjs, Tailwindcss, Expressjs, MongoDB,Nodejs, it offers a simple yet elegant interface that enhances the shopping experience. The homepage presents featured products, categories.",
     image: image1,
     liveLink: "https://newageversatilestudio.netlify.app/",
   },
   {
     title: "Fitzone Gym Website",
-    description: "Fitzone Gym is a modern and energetic fitness website designed to promote a healthy lifestyle. Built using  Reactjs, Tailwindcss, Expressjs, MongoDB,Nodejs, this website provides a user-friendly interface with a clean layout that showcases gym services, workout plans, personal training options, and membership benefits. The homepage features attractive visuals, motivating slogans, and clear navigation to sections like About Us, Our Trainers, Plans & Pricing, and Contact. Whether you're a beginner or a fitness enthusiast, Fitzone aims to inspire and guide users towards achieving their health goals with confidence.",
+    description: "Fitzone Gym is a modern and energetic fitness website designed to promote a healthy lifestyle. Built using  Reactjs, Tailwindcss, Expressjs, MongoDB,Nodejs, this website provides a user-friendly interface with a clean layout that showcases gym services, workout plans, personal training options.",
     image: image,
     liveLink: "https://yasir-gym.netlify.app/",
   },
