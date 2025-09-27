@@ -9,10 +9,18 @@ import image20 from "../assets/image20.png";
 import image21 from "../assets/image21.png";
 import image from "../assets/image.png";
 import image1 from "../assets/image1.png";
+import mas from "../assets/masjid.png";
 import Internship from "./Internship";
 
 const projects = [
-    {
+
+  {
+    title: "Jamia Masjid SK Bala",
+    description: "I have developed a Masjid Management Web Application for my village masjid committee This website is designed to simplify management and bring transparency for our community.",
+    image: mas,
+    liveLink: "https://jamiamasjid-check.netlify.app/",
+  },
+      {
     title: "Newage versatile studio",
     description: "Newgae Versatile Studio is a stylish and minimal e-commerce website built for showcasing a variety of lifestyle products including fashion, accessories, and home decor. Designed using Reactjs, Tailwindcss, Expressjs, MongoDB,Nodejs, it offers a simple yet elegant interface that enhances the shopping experience. The homepage presents featured products, categories.",
     image: image1,
@@ -23,6 +31,13 @@ const projects = [
     description: "Fitzone Gym is a modern and energetic fitness website designed to promote a healthy lifestyle. Built using  Reactjs, Tailwindcss, Expressjs, MongoDB,Nodejs, this website provides a user-friendly interface with a clean layout that showcases gym services, workout plans, personal training options.",
     image: image,
     liveLink: "https://yasir-gym.netlify.app/",
+  },
+  
+  {
+    title: "Ziyaara App",
+    description: "An Islamic app designed to provide users with authentic Hadith, stories of Prophets and Sahaba, a Qibla Finder, and step-by-step Arabic learning. Built with React Native and Tailwind CSS, Ziyaara aims to make Islamic knowledge accessible in a simple and interactive way.",
+    image: image22,
+    liveLink: "https://ziyaara.netlify.app/",
   },
 
   {
@@ -62,12 +77,6 @@ const projects = [
     liveLink: "https://yasirblog2.netlify.app/",
   },
 
-  {
-    title: "Ziyaara App",
-    description: "An Islamic app designed to provide users with authentic Hadith, stories of Prophets and Sahaba, a Qibla Finder, and step-by-step Arabic learning. Built with React Native and Tailwind CSS, Ziyaara aims to make Islamic knowledge accessible in a simple and interactive way.",
-    image: image22,
-    liveLink: "https://ziyaara.netlify.app/",
-  },
   
 ];
 

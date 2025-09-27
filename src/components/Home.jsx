@@ -54,7 +54,7 @@ const Home = () => {
         </p>
 
         <div className="mt-8 flex items-center gap-6 justify-center lg:justify-start">
-          <a href="https://drive.google.com/file/d/1IC_jrmvYMtaGyFWTv902EOZYn10_pD0t/view?usp=drive_link">
+          <a href="https://drive.google.com/file/d/1CLcZYzCS8olApxqsqhZX6yLTnJsh0ECN/view?usp=sharing">
             <button className="font-bold border-4 border-purple-400 text-white px-6 py-2 rounded-lg hover:bg-gray-900 transition cursor-pointer">
               Open CV
             </button>
