@@ -18,19 +18,25 @@ const Home = () => {
         
         
         <h1 className="text-2xl sm:text-5xl font-extrabold text-white mt-4">
-       AM <br></br><span className="text-purple-300 font-bold font-serif ">        Yasir Hamid</span>
+      I AM <br></br><span className="text-purple-300 font-bold font-serif ">        Yasir Hamid</span>
         </h1>
 
         <h3 className="mt-4 text-xl lg:text-2xl font-semibold text-gray-400 font-bold">
           <TypeAnimation
             sequence={[
               "Frontend Developer", 1000,
+               "Machine Learning Enthusiast", 1000,
+                "AI/ML Intern", 2000,
               "App Developer", 1000,
               "React Developer", 1000,
               "MSc AI/ML Student", 1000,
               "Artificial Intelligence Student", 1000,
               "React Native Developer", 1000,
               "Web Developer", 1000,
+              "SQL", 1000,
+              "", 1000,
+              "Python", 1000,
+              "C++", 1000,
               "Physics graduate", 1000,
               "Physics to AI Transition", 1000,
               "Exploring Artificial Intelligence", 1000,

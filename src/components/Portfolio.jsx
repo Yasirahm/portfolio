@@ -11,6 +11,10 @@ import image from "../assets/image.png";
 import image1 from "../assets/image1.png";
 import mas from "../assets/masjid.png";
 import Internship from "./Internship";
+import hamaam from "../assets/hamaam.png";
+
+import house from "../assets/house.png";
+
 
 const projects = [
 
@@ -20,6 +24,20 @@ const projects = [
     image: mas,
     liveLink: "https://jamiamasjid-check.netlify.app/",
   },
+  {
+  title: "AH-Hamaam Calculator website",
+  description: "I developed AH-Hamaam Calculator, a smart and user-friendly application designed to calculate traditional Hamaam requirements efficiently. It helps users estimate materials and costs accurately with a simple and interactive interface.",
+  image: hamaam,
+  liveLink: "https://hamaamcal.netlify.app/",
+},
+
+
+{
+  title: "House Price Prediction",
+  description: "A machine learning web application that predicts house prices based on various features like area, location, and number of rooms. Built using Python and ML models, integrated with a simple web interface for real-time predictions.",
+  image: house,
+  liveLink: "",
+},
       {
     title: "Newage versatile studio",
     description: "Newgae Versatile Studio is a stylish and minimal e-commerce website built for showcasing a variety of lifestyle products including fashion, accessories, and home decor. Designed using Reactjs, Tailwindcss, Expressjs, MongoDB,Nodejs, it offers a simple yet elegant interface that enhances the shopping experience. The homepage presents featured products, categories.",

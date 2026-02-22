@@ -38,7 +38,7 @@ const About = () => {
         animate={isInView ? "visible" : "hidden"}
         variants={itemVariants}
       >
-        My Tech Stack <span className="text-xl">🚀</span>
+        My Tech Stack <span className="text-xl"></span>
       </motion.h2>
 
       <motion.div
