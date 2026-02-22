@@ -18,7 +18,7 @@ const Home = () => {
         
         
         <h1 className="text-2xl sm:text-5xl font-extrabold text-white mt-4">
-          السلام عليكم, I AM <br></br><span className="text-purple-300 font-bold font-serif ">        Yasir Hamid</span>
+       I AM <br></br><span className="text-purple-300 font-bold font-serif ">        Yasir Hamid</span>
         </h1>
 
         <h3 className="mt-4 text-xl lg:text-2xl font-semibold text-gray-400 font-bold">
@@ -27,9 +27,14 @@ const Home = () => {
               "Frontend Developer", 1000,
               "App Developer", 1000,
               "React Developer", 1000,
+              "MSc AI/ML Student", 1000,
+              "Artificial Intelligence Student", 1000,
               "React Native Developer", 1000,
               "Web Developer", 1000,
-              "Physics Undergrad", 1000,
+              "Physics graduate", 1000,
+              "Physics to AI Transition", 1000,
+              "Exploring Artificial Intelligence", 1000,
+
               "A Student", 1000,
               "A Learner", 1000,
               "A Developer", 1000,
@@ -48,9 +53,8 @@ const Home = () => {
         <p className="mt-6 text-gray-200 text-sm lg:text-lg leading-relaxed">
           I’m a frontend web developer focused on crafting visually engaging,
           responsive, and user-centric web applications. With a passion for
-          clean design and performance, I specialize in creating intuitive
-          interfaces and interactive features. My goal is to deliver impactful
-          projects through collaboration and creative solutions.
+          clean design and performance, Currently pursuing my MSc in AI & Machine
+  Learning, 
         </p>
 
         <div className="mt-8 flex items-center gap-6 justify-center lg:justify-start">
